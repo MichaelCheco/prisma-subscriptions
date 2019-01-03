@@ -1,0 +1,15 @@
+{
+  "name": "Sub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": "https://github.com/MichaelCheco/prisma-subscriptions.git",
+  "author": "Michael Checo <checomichael2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.16.9",
+    "prisma-client-lib": "^1.23.3"
+  }
+}
